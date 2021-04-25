@@ -29,3 +29,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GabrielAtlas&theme=dark)](https://git.io/streak-stats)
+
