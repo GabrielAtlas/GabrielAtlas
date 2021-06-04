@@ -3,15 +3,14 @@
 
 Here are some ideas to get you started:
 
-- 👨🏻‍💻 I’m currently working on Atlas Plugins & Vruum
-- 
-- 🌱 I’m currently learning AdonisJS
-- 
-- 👯 I’m looking to collaborate on Vruum
-- 
-- 💬 Ask me about Java Spigot & Bukkit Plugins
-- 
-- 📫 How to reach me: suporte@atlasplugins.com
+👨🏻‍💻 I’m currently working on Atlas Plugins
+<br/>
+🌱 I’m currently learning AdonisJS
+<br/>
+💬 Ask me about Java Spigot & Bukkit Plugins
+<br/>
+📫 How to reach me: suporte@atlasplugins.com
+<br/>
 
 ## Languages and features that I'm currently learning and have already learned
 <p align="left">
