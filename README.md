@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-👨🏻‍💻 I’m currently working on Atlas Plugins
+👨🏻‍💻 I’m currently working on Atlas Plugins / Toodoo
 <br/>
 🌱 I’m currently learning AdonisJS
 <br/>
