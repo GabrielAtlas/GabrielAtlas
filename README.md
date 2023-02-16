@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30"> and welcome to my profile 
+# Hi <img src="https://i.imgur.com/3Zb7ODQ.gif" width="30" height="30"> and welcome to my profile 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=GabrielAtlas&color=brightgreen" alt="GabrielAtlas profile views" /> </p>
 
 Here are some ideas to get you started:
