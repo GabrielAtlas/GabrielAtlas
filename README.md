@@ -3,14 +3,11 @@
 
 Here are some ideas to get you started:
 
-👨🏻‍💻 I’m currently working on Atlas Plugins / Toodoo
+👨🏻‍💻 I’m currently working on Toodoo
 <br/>
-🌱 I’m currently learning AdonisJS
+🌱 I’m currently learning C#
 <br/>
 💬 Ask me about Java Spigot & Bukkit Plugins
-<br/>
-📫 How to reach me: suporte@atlasplugins.com
-<br/>
 
 ## Linguagens e tecnologias que já estudei
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
