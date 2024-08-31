@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <br/>
 🌱 I’m currently learning C#
 <br/>
-💬 Ask me about Java Spigot & Bukkit Plugins
+💬 Ask me about ReactJS, NextJS applications
 
 ## Linguagens e tecnologias que já estudei
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
