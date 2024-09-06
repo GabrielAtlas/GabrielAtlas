@@ -3,11 +3,35 @@
 
 Here are some ideas to get you started:
 
-👨🏻‍💻 I’m currently working on Toodoo
-<br/>
-🌱 I’m currently learning C#
-<br/>
-💬 Ask me about ReactJS, NextJS applications
+```javascript
+const JoaoGabrielCosta = {
+    fullName: 'João Gabriel Betela da Costa',
+    mainLanguage: {
+        name: 'Javascript',
+        superset: 'Typescript',
+    },
+    secondLanguage: 'English',
+    askMeAbout: ['ReactJS', 'NextJS', 'React', 'NodeJS', 'Testes E2E', 'Java', 'Spigot', 'Bukkit Plugins', 'Javascript', 'Typescript'],
+    workingProjects: ['Popeyes Brasil', 'Burger King Brasil'],
+    message: "Graduando em Engenharia de Software e Desenvolvedor Júnior atuando na ZAMP BR (Terceirizado pela Toodoo).",
+    technologies: {
+        frontEnd: {
+            favoriteFramework: 'NextJS',
+            favoriteCssLib: 'Tailwind',
+        },
+        backEnd: {
+            favoriteFramework: 'Adonis.JS',
+            favoriteApiTestSoftware: ['Postman', 'Insomnia'],
+        },
+        os: ['windows', 'linux', 'macos'],
+        ideas: ['IntelliJ', 'VS Code', 'Eclipse'],
+        cicd: ['github actions', 'azure pipelines'],
+        managementTools: ['jira'],
+        agileMethodologies: ['Scrum', 'KanBan'],
+    },
+};
+
+```
 
 ## Linguagens e tecnologias que já estudei
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
