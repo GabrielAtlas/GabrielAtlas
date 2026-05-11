@@ -1,4 +1,4 @@
-# Olá <img src="https://i.imgur.com/3Zb7ODQ.gif" width="30" height="30">, Sou João Gabriel Costa, desenvolvedor Full Stack em Javascript.
+# Olá <img src="https://i.imgur.com/3Zb7ODQ.gif" width="30" height="30">, Sou João Gabriel Costa
 <p align="left"><img src="https://komarev.com/ghpvc/?username=GabrielAtlas&color=brightgreen" alt="GabrielAtlas profile views" /> </p>
 
 Here are some ideas to get you started:
