@@ -12,8 +12,6 @@ const JoaoGabrielCosta = {
     },
     secondLanguage: 'English',
     askMeAbout: ['ReactJS', 'NextJS', 'React', 'NodeJS', 'Testes E2E', 'Java', 'Spigot', 'Bukkit Plugins', 'Javascript', 'Typescript'],
-    workingProjects: ['Popeyes Brasil', 'Burger King Brasil'],
-    message: "Graduando em Engenharia de Software e Desenvolvedor Júnior atuando na ZAMP BR (Terceirizado pela Toodoo).",
     technologies: {
         frontEnd: {
             favoriteFramework: 'NextJS',
